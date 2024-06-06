@@ -1,0 +1,9 @@
+name: FireWorksDisplay
+version: '${project.version}'
+main: me.stephenminer.fireworksdisplay.FireWorksDisplay
+api-version: 1.18
+authors: [ Meep ]
+description: Allows you to create firework displays
+commands:
+  display:
+  launcher:
